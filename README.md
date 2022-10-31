@@ -1,0 +1,1 @@
+This is a training project. This is done using the Django framework, Django channels and demonstrates its abilities.
